@@ -2,7 +2,7 @@ public class TextInput {
     // text input from keyboard is stored in this
     private String mText;
 
-    // the alphabets are used so that the arrays(arrVowels, arrConsonant) can know at which position the to store the counts
+    // the alphabets are used so that the arrays(arrVowels, arrConsonant) can know at which position to store the counts
     private char[] strVowels = {'a', 'e', 'i', 'o', 'u'};
     private char[] strConsonant = {'b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z'};
 
